@@ -1,6 +1,7 @@
 # Ex--6-AWS-Account-setup-and-S3-creation-
-NAME : Roop Sagar S L
-REG NO: 212223040175
+<h3>NAME : Roop Sagar S L  </h3>
+
+<h3>REG NO: 212223040175  </h3>
 
 # Introduction
 
